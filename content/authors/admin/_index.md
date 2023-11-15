@@ -29,6 +29,9 @@ education:
     - course: MSc by Research in Biomedical AI
       institution: University of Edinburgh
       year: 2021
+    - course: Specialty in Psychiatry
+      institution: University of Bologna
+      year: 2020
     - course: Diploma in Medical Sciences
       institution: Scuola Superiore Sant'Anna
       year: 2017

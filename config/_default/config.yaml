@@ -29,6 +29,11 @@ module:
 ## ADVANCED
 ############################
 
+appearance:
+  theme_day:
+  theme_night: Forest
+  font: minimal
+  font_size: L
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

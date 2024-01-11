@@ -5,7 +5,7 @@ event: ECNP - Get Digital online series
 
 event_url: https://www.ecnp.eu/research-innovation/networks-thematic-working-groups/list-ecnp-networks/digital-health-applied-clinical-research-brain-disorders/get-digital-online-series/previous-meetings
 
-url_slides: static/uploads/ECNPGetDigitalNov2023.pdf
+url_slides: '/uploads/ECNPGetDigitalNov2023.pdf'
 
 location: online
 # address:

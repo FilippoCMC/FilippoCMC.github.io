@@ -83,6 +83,6 @@ email: "filippo.corponi@ed.ac.uk"
 highlight_name: true
 ---
 
-I am a medical consultant in General Adult Psychiatry at NHS Lothian and a UKRI-funded PhD student in Biomedical Artificial Intelligence at the University of Edinburgh, School of Informatics. I am a member of the [Centre for Doctoral Training in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) and part of the [APRIL research lab](https://april-tools.github.io/), supervised by [Dr. Antonio Vergari](http://nolovedeeplearning.com/).
+I am a medical consultant in General Adult Psychiatry at NHS Lothian and a UKRI-funded PhD student in Biomedical Artificial Intelligence at the University of Edinburgh, School of Informatics. I am a member of the [Centre for Doctoral Training in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) and part of the [APRIL research lab](https://april-tools.github.io/), supervised by [Dr. Antonio Vergari](http://nolovedeeplearning.com/), [Prof. Stephen Lawrie](https://www.ed.ac.uk/profile/professor-stephen-lawrie), and [Prof. Heather Whalley](https://www.ed.ac.uk/profile/dr-heather-whalley).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

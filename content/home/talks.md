@@ -6,10 +6,10 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 90
 
 title: 'Recent & Upcoming Talks'
 subtitle:
@@ -21,6 +21,8 @@ content:
   count: 5
   # Filter on criteria
   filters:
+    # folders:
+    #   - content/event
     author: ""
     category: ""
     tag: ""

@@ -26,7 +26,7 @@ experience:
     company: NHS Lothian
     company_url: ''
     company_logo: org-nhs-lothian
-    location: Edinburgrh, UK
+    location: Edinburgh, UK
     date_start: '2022-05-01'
     date_end: ''
     description: |2-

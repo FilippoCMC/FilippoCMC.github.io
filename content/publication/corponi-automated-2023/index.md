@@ -19,4 +19,5 @@ publication_types:
 - '3'
 featured: true
 publication: '*MedRxiv*'
+url_pdf: "https://www.medrxiv.org/content/10.1101/2023.03.25.23287744v1"
 ---

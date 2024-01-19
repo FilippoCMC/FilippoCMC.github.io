@@ -26,6 +26,7 @@ publication_types:
 - '2'
 featured: true
 publication: '*Psychol Med*'
+url_pdf: "https://www.cambridge.org/core/journals/psychological-medicine/article/abs/definition-of-early-age-at-onset-in-bipolar-disorder-according-to-distinctive-neurodevelopmental-pathways-insights-from-the-facebd-study/DD12195A96AC2375D3B20EC5B19A93B1"
 ---
 
 

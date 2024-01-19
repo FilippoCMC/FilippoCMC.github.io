@@ -10,4 +10,5 @@ publication_types:
 - '6'
 featured: true
 publication: '*NeuroPsychopharmacotherapy*'
+url_pdf: "https://link.springer.com/referenceworkentry/10.1007/978-3-030-62059-2_29"
 ---

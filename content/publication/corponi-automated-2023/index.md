@@ -6,18 +6,21 @@ authors:
 - Bryan M Li
 - Gerard Anmella
 - Ariadna Mas
-- Miriam Sanabra
+- Isabella Pacchiarotti
+- Marc Valenti
+- Iria Grande
+- Antonio Benabarre
+- Marina Garrica
 - Eduard Vieta
-- INTREPIBD Group
 - Stephen M Lawrie
 - Heather C Whalley
 - Diego Hidalgo-Mazzei
 - Antonio Vergari
-date: '2023-01-01'
-publishDate: '2023-11-10T22:13:28.838395Z'
+date: '2024-03-26'
+publishDate: '2024-26-03T22:13:28.838395Z'
 publication_types:
 - '3'
 featured: true
-publication: '*MedRxiv*'
-url_pdf: "https://www.medrxiv.org/content/10.1101/2023.03.25.23287744v1"
+publication: 'Translational psychiatry'
+url_pdf: "https://www.nature.com/articles/s41398-024-02876-1"
 ---

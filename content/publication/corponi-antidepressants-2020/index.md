@@ -8,7 +8,7 @@ date: '2020-01-01'
 publishDate: '2023-11-10T22:13:28.829683Z'
 publication_types:
 - '6'
-featured: true
+featured: false
 publication: '*NeuroPsychopharmacotherapy*'
 url_pdf: "https://link.springer.com/referenceworkentry/10.1007/978-3-030-62059-2_29"
 ---

@@ -8,7 +8,7 @@ authors:
 - Miriam Sanabra
 - Diego Hidalgo-Mazzei
 - Antonio Vergari
-date: '2022-01-01'
+date: '2022-12-08'
 featured: true
 publishDate: '2023-11-10T22:13:28.825821Z'
 publication_types:

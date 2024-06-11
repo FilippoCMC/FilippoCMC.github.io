@@ -1,5 +1,5 @@
 ---
-title: 'Wearable data from subjects playing Super Mario, sitting university exams, or performing physical exercise help detect acute mood episodes via self-supervised learning'
+title: 'Wearable data from students, teachers or subjects with alcohol use disorder help detect acute mood episodes via self-supervised learning'
 authors:
 - admin
 - Bryan M Li
@@ -17,11 +17,11 @@ authors:
 - Heather C Whalley
 - Diego Hidalgo-Mazzei
 - Antonio Vergari
-date: '2023-11-07'
+date: '2024-05-26'
 publishDate: '2023-11-07T22:13:28.838395Z'
 publication_types:
 - '3'
 featured: true
-publication: '*arXiv*'
+publication: 'JMIR mHealth and uHealth'
 url_pdf: "https://arxiv.org/abs/2311.04215"
 ---

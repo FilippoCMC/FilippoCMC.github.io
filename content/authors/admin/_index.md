@@ -6,28 +6,31 @@ title: Filippo Corponi
 superuser: true
 
 # Role/position/tagline
-role: MD, MSc, PhD student
+role: MD, MScR, PhD
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: The University of Edinburgh
-  url: https://www.ucl.ac.uk/
+# organizations:
+# - name: The University of Edinburgh
+#   url: https://www.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Mental health
   - Wearables
-  - Digital Psychiatry
+  - Machine Learning
+  - Precision Psychiatry
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Biomedical AI
+      institution: University of Edinburgh, School of Informatics
+      year: 2024
     - course: MSc by Research in Biomedical AI
-      institution: University of Edinburgh
+      institution: University of Edinburgh, School of Informatics
       year: 2021
     - course: Specialty in Psychiatry
       institution: University of Bologna
@@ -77,12 +80,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "filippo.corponi@ed.ac.uk"
+email: "filippo.corponi@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a medical consultant in General Adult Psychiatry at NHS Lothian and a UKRI-funded PhD student in Biomedical Artificial Intelligence at the University of Edinburgh, School of Informatics. I am a member of the [Centre for Doctoral Training in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) and part of the [APRIL research lab](https://april-tools.github.io/), supervised by [Dr. Antonio Vergari](http://nolovedeeplearning.com/), [Prof. Stephen Lawrie](https://www.ed.ac.uk/profile/professor-stephen-lawrie), and [Prof. Heather Whalley](https://www.ed.ac.uk/profile/dr-heather-whalley).
+I am a medical consultant in General Adult Psychiatry at NHS Lothian and former member of the [Centre for Doctoral Training in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) at the University of Edinburgh, School of Informatics. I am interested in developing personalized, scalable, and trustworthy approaches to improving patients' lives through Artificial Intelligence.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

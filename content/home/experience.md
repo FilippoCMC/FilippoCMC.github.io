@@ -30,18 +30,6 @@ experience:
     date_start: '2022-05-01'
     date_end: ''
     description: |2-
-
-  - title: PhD student in Biomedical AI
-    company: University of Edinburgh
-    company_url: ''
-    company_logo: org-uoe
-    location: Edinburgh, UK
-    date_start: '2021-09-01'
-    date_end: ''
-    description: |2-
-      Supervised by [Dr. Antonio Vergari](http://nolovedeeplearning.com/)
-      * Fully funded by [UKRI](https://www.ukri.org/).
-      * Research topics: 1) digital phenotyping; 2) machine learning for mental healthcare.
         
   - title: Visiting Research Assistant
     company: King's College London, UK

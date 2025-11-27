@@ -22,15 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: IPPRF Fellow
+    company: Imperial College London
+    company_url: ''
+    company_logo: org-icl
+    location: London, UK
+    date_start: '2025-11-01'
+    date_end: ''
+    description: |2-
   - title: Locum Consultant Psychiatrist
     company: NHS Lothian
     company_url: ''
     company_logo: org-nhs-lothian
     location: Edinburgh, UK
     date_start: '2022-05-01'
-    date_end: ''
-    description: |2-
-        
+    date_end: '2025-10-31'
+    description: |-
+      Responsabilities include: chairing multidisciplinary team meetings; referral triage; medical reviews for the intensive home treatment team; assessments and interventions under the mental health act. Conditions diagnosed and treated include: bipolar and related disorders; depressive disorders; neurodevelopmental disorders; schizophrenia spectrum and other psychotic disorders; anxiety disorders; obsessive‑compulsive and related disorders; trauma‑ and stressor‑related disorders; personality disorders.
   - title: Visiting Research Assistant
     company: King's College London, UK
     company_url: ''

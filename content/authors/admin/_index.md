@@ -20,7 +20,7 @@ bio:
 interests:
   - Mental health
   - Wearables
-  - Machine Learning
+  - Artificial Intelligence
   - Precision Psychiatry
 
 # Education to show in About widget
@@ -86,6 +86,6 @@ email: "filippo.corponi@gmail.com"
 highlight_name: true
 ---
 
-I am a medical consultant in General Adult Psychiatry at NHS Lothian and former member of the [Centre for Doctoral Training in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) at the University of Edinburgh, School of Informatics. I am interested in developing personalized, scalable, and trustworthy approaches to improving patients' lives through Artificial Intelligence.
+I am a Medical Consultant in General Adult Psychiatry with a PhD in Biomedical Artificial Intelligence from the University of Edinburgh, School of Informatics. I am currently an [IPPRF](https://www.imperial.ac.uk/medicine/study/clinical-academic-training-office/training-pathways-for-doctors/ipp-research-fellowship/) Fellow at Imperial College London, Department of Brain Sciences. My research focuses on developing personalized, scalable, and trustworthy approaches utilizing Artificial Intelligence to improve patients' lives.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

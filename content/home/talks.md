@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 'Talks'
+title: 'Recent & Upcoming Talks'
 subtitle:
 
 content:

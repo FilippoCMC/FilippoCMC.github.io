@@ -31,7 +31,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -68,3 +69,8 @@ related:
       weight: 70
 security:
   _merge: deep
+# In your main config file (config.yaml/config.toml)
+services:
+  google:
+    analytics:
+      ID: "" # This must be present to satisfy modern Hugo

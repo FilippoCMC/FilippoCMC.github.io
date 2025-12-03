@@ -7,6 +7,8 @@ event_url: https://www.ecnp.eu/research-innovation/networks-thematic-working-gro
 
 url_slides: '/uploads/ECNPGetDigitalNov2023.pdf'
 
+draft: true
+
 location: online
 # address:
 #   street: 450 Serra Mall

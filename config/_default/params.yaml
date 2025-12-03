@@ -112,11 +112,69 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  # --------------------------------------------------------------------------
+  # 🔍 SEO (Search Engine Optimization)
+  # --------------------------------------------------------------------------
+  seo:
+    # Required for structured data (e.g., how Google displays your site)
+    # Recommended values: Person, Organization, Project, LocalBusiness
+    site_type: "Person" 
+    
+    # Required if site_type is LocalBusiness (e.g., ProfessionalService)
+    local_business_type: ""
+
+    # Organization name (defaults to site title if blank)
+    org_name: "" 
+
+    # Brief description for search engines and social sharing (recommended)
+    description: "Your brief description for search engines."
+
+    # Twitter handle (e.g., @wowchemy)
+    twitter: "" 
+
+  # --------------------------------------------------------------------------
+  # 🌐 Site Verification (for search engines)
+  # --------------------------------------------------------------------------
+  verification:
+    # Paste your unique Google Site Verification meta tag content here
+    google: "" 
+    # Paste your unique Bing Site Verification meta tag content here
+    bing: ""
+    # Paste your unique Baidu Site Verification meta tag content here
+    baidu: ""
+    # Paste your unique Yandex Site Verification meta tag content here
+    yandex: ""
+    # Paste your unique Pinterest Site Verification meta tag content here
+    pinterest: ""
+  
+  # --------------------------------------------------------------------------
+  # 📊 Analytics (Tracking)
+  # --------------------------------------------------------------------------
+  analytics:
+    # Google Analytics 4 (G-XXXXXXXXXX) or Universal Analytics (UA-XXXXXXXXX-X)
+    google_analytics: "" 
+
+    # Google Tag Manager ID (GTM-XXXXXX)
+    google_tag_manager: "" 
+
+    # Microsoft Clarity Tracking ID
+    microsoft_clarity: ""
+    
+    # Baidu Tongji Tracking ID
+    baidu_tongji: ""
+
+  # --------------------------------------------------------------------------
+  # 🍪 Privacy (GDPR Compliance)
+  # --------------------------------------------------------------------------
+  privacy:
+    # Set this to true to anonymize user IPs for GDPR compliance
+    anonymize_ip: true 
+    
+    # Show the cookie consent banner?
+    show_cookie_consent: false
+    
+    # URL to your privacy policy page (e.g., /privacy/)
+    privacy_pack: ""
 cms:
   branch: master
   local_backend: false

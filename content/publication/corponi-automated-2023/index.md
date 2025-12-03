@@ -17,7 +17,7 @@ authors:
 - Diego Hidalgo-Mazzei
 - Antonio Vergari
 date: '2024-03-26'
-publishDate: '2024-26-03T22:13:28.838395Z'
+publishDate: '2024-03-26T22:13:28Z'
 publication_types:
 - '3'
 featured: true
